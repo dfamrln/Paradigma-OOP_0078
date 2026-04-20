@@ -12,4 +12,8 @@ class Mahasiswa{
         cout << "Nama : " << nama << endl;
         cout << "Nilai : " << nilai << endl;
     }
-};
+}; //batas class
+
+int main(){
+    
+}
