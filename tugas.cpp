@@ -9,7 +9,7 @@ class Barang{
         string tanggalProduksi;
 
     void printData(){
-        cout << "NIM : " << nama << endl;
+        cout << "Nama : " << nama << endl;
         cout << "Jumlah : " << jumlah << endl;
         cout << "Kategori : " << kategori << endl;
         cout << "TanggalProduksi : " << tanggalProduksi << endl;
